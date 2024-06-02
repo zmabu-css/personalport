@@ -21,7 +21,7 @@
   --bg-eerie-black: hsla(0, 0%, 13%, 1);
   --bg-rich-black-fogra-29: hsla(229, 23%, 9%, 1);
   --bg-smoky-black: hsla(0, 0%, 6%, 1);
-  --bg-black: hsla(0, 0%, 0%, 1);
+  --bg-black: rgb(5, 5, 5);
 
   /* gradient colors */
   --gradient-1: linear-gradient(to top, var(--bg-black) 0%, transparent 40%);
